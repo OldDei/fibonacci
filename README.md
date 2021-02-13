@@ -1,2 +1,2 @@
 # fibonacci
-program to calculate a decent portion of the fibonacci sequence
+a simple program to calculate a decent portion of the fibonacci sequence
